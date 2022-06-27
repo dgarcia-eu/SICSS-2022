@@ -1,2 +1,2 @@
-# ZING-2022
-ZING talk 2022
+# SICSS-2022
+SICSS talk 2022
