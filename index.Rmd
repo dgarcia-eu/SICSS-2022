@@ -1,5 +1,6 @@
 ---
-title: "Validating Social Media Emotion Measurement Across Levels of Behavior"
+title: "Combining survey and Big Data"
+subtitle: "The case of emotion macroscopes"
 author: "David Garcia <br> *Graz University of Technology and CSH Vienna*"
 date: "SICSS 2022, slides available at: dgarcia.eu/SICSS-2022"
 output:
